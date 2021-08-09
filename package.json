@@ -1,13 +1,13 @@
 {
   "name": "xgettext-js-xsky-pluto",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "author": "xsky-fe",
   "description": "xgettext string extractor tool capable of parsing JavaScript files",
   "main": "xgettext.js",
   "files": [
     "xgettext.js"
   ],
-  "homepage": "https://github.com/xsky-fe/xgettext-js",
+  "homepage": "https://github.com/hongdeyuan/xgettext-js",
   "license": "GPL-2.0+",
   "keywords": [
     "xgettext",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xsky-fe/xgettext-js.git"
+    "url": "git+https://github.com/hongdeyuan/xgettext-js.git"
   },
   "scripts": {
     "lint": "eslint .",
@@ -39,10 +39,10 @@
     "eslint": "^3.9.0",
     "eslint-config-wpcalypso": "^0.6.0",
     "eslint-plugin-wpcalypso": "^3.0.2",
-    "mocha": "^8.3.0"
+    "mocha": "^3.1.2"
   },
   "bugs": {
-    "url": "https://github.com/xsky-fe/xgettext-js/issues"
+    "url": "https://github.com/hongdeyuan/xgettext-js/issues"
   },
   "directories": {
     "test": "test"
